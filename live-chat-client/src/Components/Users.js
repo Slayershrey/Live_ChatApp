@@ -101,7 +101,7 @@ function Users() {
                     },
                     config
                   )
-                  window.location = "users"
+                  // window.location = "users"
 
                   dispatch(refreshSidebarFun())
                 }}
